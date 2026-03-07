@@ -38,4 +38,5 @@ https://laurent-personal-portfolio.netlify.app
 ## Contact
 
 GitHub: https://github.com/Laurent-JSON
+
 Linkedin: https://www.linkedin.com/in/laurent-tibasima-891a0a21a/
