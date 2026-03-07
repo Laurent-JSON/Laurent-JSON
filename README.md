@@ -33,8 +33,9 @@ Tools
 You can explore some of my projects in my repositories.
 
 Portfolio:
-https://github.com/Laurent-JSON
+https://laurent-personal-portfolio.netlify.app
 
 ## Contact
 
 GitHub: https://github.com/Laurent-JSON
+Linkedin: https://www.linkedin.com/in/laurent-tibasima-891a0a21a/
