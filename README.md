@@ -10,13 +10,17 @@ Frontend
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
+- TailwindCSS
+- MUI
 
 Backend
 - Node.js
 - Express
 - PostgreSQL
 - Prisma
+- MySQL
 
 Tools
 - Git
