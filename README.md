@@ -8,6 +8,13 @@ Humanitarian Tech • Full-Stack Developer • GIS
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Humanitarian+Data+Systems;GIS+and+Spatial+Analysis&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Email-lawrencetibasima@gmail.com-blue?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Phone-+243826731929-green?style=for-the-badge&logo=telephone">
+<img src="https://img.shields.io/badge/Location-Bunia, RDC-purple?style=for-the-badge&logo=map-marker">
+</p>
+
+
 ---
 
 ### Tech Stack
