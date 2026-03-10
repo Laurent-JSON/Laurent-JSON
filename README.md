@@ -1,46 +1,65 @@
-# Hi, I'm Laurent Ngona Tibasima
+# Hello, I'm Laurent NGONA TIBASIMA
 
-I am a web developer interested in building modern web applications and learning new technologies.
+I am a developer and data professional working at the intersection of technology and humanitarian action. My work focuses on building digital tools that support data-driven coordination and improve the efficiency of humanitarian interventions.
 
-My focus is on full stack development and building practical projects.
+My background combines software development, data management, and geographic information systems.
+
+---
+
+## Areas of Focus
+
+- Humanitarian data systems
+- Web application development
+- API integration
+- Geographic Information Systems (GIS)
+- Data analysis and visualization
+
+---
 
 ## Technologies
 
-Frontend
-- HTML
-- CSS
-- JavaScript
-- TypeScript
+### Web Development
 - React
-- TailwindCSS
-- MUI
-
-Backend
 - Node.js
-- Express
+- TypeScript
+- JavaScript
 - PostgreSQL
 - Prisma
-- MySQL
+- Express
 
-Tools
-- Git
-- GitHub
+### Frontend Tools
+- Material UI
+- Tailwind CSS
+- SCSS
 
-## Current Goals
+### GIS and Spatial Data
+- ArcGIS Pro
+- GeoPandas
+- Python
+- Spatial data analysis
 
-- Improve my full stack development skills
-- Build practical applications
-- Contribute to meaningful technical projects
+---
 
-## Projects
+## Selected Projects
 
-You can explore some of my projects in my repositories.
+### Humanitarian Coordination System
+Web platform designed to support coordination of humanitarian interventions and help reduce duplication of assistance. The system provides structured project tracking and visibility across operational areas.
 
-Portfolio:
-https://laurent-personal-portfolio.netlify.app
+### Project Management Application
+Full-stack application built with React, Node.js and PostgreSQL for task and project organization.
+
+### Travel Advisor
+React application integrating travel APIs and map services to explore restaurants, attractions and locations.
+
+---
+
+## GitHub Stats
+
+![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurent-JSON&show_icons=true)
+
+---
 
 ## Contact
 
-GitHub: https://github.com/Laurent-JSON
-
-Linkedin: https://www.linkedin.com/in/laurent-tibasima-891a0a21a/
+LinkedIn  
+https://www.linkedin.com/in/laurent-tibasima-891a0a21a
