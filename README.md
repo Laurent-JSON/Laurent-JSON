@@ -1,65 +1,35 @@
-# Hello, I'm Laurent NGONA TIBASIMA
+<h1 align="center">Laurent NGONA TIBASIMA</h1>
 
-I am a developer and data professional working at the intersection of technology and humanitarian action. My work focuses on building digital tools that support data-driven coordination and improve the efficiency of humanitarian interventions.
+<p align="center">
+Humanitarian Tech • Full-Stack Developer • GIS
+</p>
 
-My background combines software development, data management, and geographic information systems.
-
----
-
-## Areas of Focus
-
-- Humanitarian data systems
-- Web application development
-- API integration
-- Geographic Information Systems (GIS)
-- Data analysis and visualization
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Humanitarian+Data+Systems;GIS+and+Spatial+Analysis&center=true&width=500&height=45">
+</p>
 
 ---
 
-## Technologies
+### Tech Stack
 
-### Web Development
-- React
-- Node.js
-- TypeScript
-- JavaScript
-- PostgreSQL
-- Prisma
-- Express
-
-### Frontend Tools
-- Material UI
-- Tailwind CSS
-- SCSS
-
-### GIS and Spatial Data
-- ArcGIS Pro
-- GeoPandas
-- Python
-- Spatial data analysis
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,postgres,express,tailwind,materialui,html,css,git" />
+</p>
 
 ---
 
-## Selected Projects
+### GIS & Spatial Data
 
-### Humanitarian Coordination System
-Web platform designed to support coordination of humanitarian interventions and help reduce duplication of assistance. The system provides structured project tracking and visibility across operational areas.
-
-### Project Management Application
-Full-stack application built with React, Node.js and PostgreSQL for task and project organization.
-
-### Travel Advisor
-React application integrating travel APIs and map services to explore restaurants, attractions and locations.
+<p align="center">
+<img src="https://img.shields.io/badge/ArcGIS%20Pro-0054A6?style=for-the-badge">
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge">
+</p>
 
 ---
 
-## GitHub Stats
+### Profile Views
 
-![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurent-JSON&show_icons=true)
-
----
-
-## Contact
-
-LinkedIn  
-https://www.linkedin.com/in/laurent-tibasima-891a0a21a
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Laurent-JSON&style=for-the-badge&color=blueviolet">
+</p>
